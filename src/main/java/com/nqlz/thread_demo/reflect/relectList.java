@@ -1,7 +1,6 @@
 package com.nqlz.thread_demo.reflect;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
  * 功能描述:
