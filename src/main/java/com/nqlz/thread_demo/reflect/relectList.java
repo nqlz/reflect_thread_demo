@@ -1,6 +1,8 @@
 package com.nqlz.thread_demo.reflect;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * 功能描述:
@@ -8,7 +10,7 @@ import java.util.ArrayList;
  * @author: MR.zt
  * @date: 2019/6/12 23:59
  */
-public class relectList {
+public class relectList   {
 
     public static void main(String[] args) throws Exception {
         ArrayList list = new ArrayList<>();
@@ -26,5 +28,6 @@ public class relectList {
 
 
     }
+
 }
 
